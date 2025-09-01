@@ -24,6 +24,7 @@ The data is stored here in our class GitHub repo so it can be reused in the futu
 
 -- Data Dictionary : Provide understanding for the data (ex, observations, features and their units)
 
--- Uncertainty : margin of error, prone to randomness
+-- Uncertainty : margin of error, prone to randomness:
+There are some natural limitations to keep in mind. The survey wasn’t random, it reached whoever happened to see it in certain spaces, which means some groups of students were more likely to respond than others. We may also have more answers from certain years than others, depending on who it was shared with. And since the total number of responses is fairly small, the results could easily shift if more people participated. All of this means the dataset gives us a fun snapshot of opinions, but not a perfect or definitive answer.
 
 -- Ethics : Any bias? 
