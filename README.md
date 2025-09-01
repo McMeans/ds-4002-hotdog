@@ -20,11 +20,7 @@ Limitations: Not a random sample of the entire UVA population; relies on volunta
 
 -- Management Plan : Future (ex, GitHub):
 
-This dataset will remain stored in this GitHub repository.
-
-Future classes may expand on this question or compare across years. Future clsses may expand on this question or cmpare across years
-
-Documentation and cleaning notes will be maintained to keep the dataset reusable.
+The data is stored here in our class GitHub repo so it can be reused in the future. Later semesters may add new rounds of surveys, or even new questions, so the dataset can grow over time. We’ve included documentation like a data dictionary, so anyone coming back to this project will be able to understand and build on it. 
 
 -- Data Dictionary : Provide understanding for the data (ex, observations, features and their units)
 
