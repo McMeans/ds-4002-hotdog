@@ -28,3 +28,4 @@ The data is stored here in our class GitHub repo so it can be reused in the futu
 There are some natural limitations to keep in mind. The survey wasn’t random, it reached whoever happened to see it in certain spaces, which means some groups of students were more likely to respond than others. We may also have more answers from certain years than others, depending on who it was shared with. And since the total number of responses is fairly small, the results could easily shift if more people participated. All of this means the dataset gives us a fun snapshot of opinions, but not a perfect or definitive answer.
 
 -- Ethics : Any bias? 
+The survey was completely anonymous and voluntary, and no personal or sensitive data was collected. Our main ethical responsibility here is to be honest about what the data does and doesn’t represent. We can’t claim it reflects every UVA student, and that’s okay — it’s mainly an exercise in collecting and analyzing data responsibly.
